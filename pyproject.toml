@@ -1,0 +1,8 @@
+[build-system]
+requires = []
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "WUYUE SP90 PDK documentation"
+authors = [{ name = "wushuang", email = "wushuang@latitudeda.com" }]
+dynamic = ["version", "description"]
