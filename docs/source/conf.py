@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'rst2pdf.pdfbuilder',  # 启用 rst2pdf 扩展
 ]
 
 intersphinx_mapping = {
@@ -42,3 +43,6 @@ html_theme_options = {
     'navigation_depth': 5,
     'collapse_navigation': False,
 }
+
+# PDF 配置
+pdf_documents = [('index', 'WUYUE_SP90_PDK_Documentation', 'WUYUE SP90 PDK', 'Latitudeda.com')]
