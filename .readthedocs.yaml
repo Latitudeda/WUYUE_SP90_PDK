@@ -6,7 +6,8 @@ build:
     python: "3.9"
 sphinx:
   # Path to the shared conf.py file.
-  configuration: docs/conf.py
+  configuration: docs/source/conf.py
+  fail_on_warning: false  # 暂时禁用警告失败
 
 python:
   install:
