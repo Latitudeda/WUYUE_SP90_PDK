@@ -9,7 +9,7 @@ Process Design Kit (PDK) is a tool for designated users to generate circuit layo
 
     * Fixed cells: All fixed cells, including ``BB Edge Coupler``, ``BB Grating Coupler``, ``BB MPD``, ``BB Doped Heater``, ``BB PNPS``, etc, are named and designed by **WUYUE** and cannot be changed.
 
-    * Parametrized cells (PCells): Designed by **LDA**, including ``Bend``, ``Straight``, ``Taper``, etc. Please see ``gpdk > components`` for more designed components by **LDA**.
+    * Parametrized cells (PCells): Designed by **Latitudeda**, including ``Bend``, ``Straight``, ``Taper``, etc. Please see ``gpdk > components`` for more designed components by **Latitudeda**.
 
 * ``examples``
 
