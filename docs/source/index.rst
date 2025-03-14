@@ -30,5 +30,6 @@ This documentation is organized into the following sections:
    tech/index
    component_list/index
    quick_start/index
+   cml/index
 
 
