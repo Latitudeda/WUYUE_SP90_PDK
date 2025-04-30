@@ -1,7 +1,7 @@
 Quick Start Circuit Simulation
 =======================================
 
-There is a compact model in WUYUE SP90 PDK, so users can perform circuit simulation to verify that the simulated results are appropriate in **pSim Plus**. The following are the steps to import and use WUYUE sp90 PDK in **pSim Plus**.
+There is a compact model in WUYUE SP90 PDK, so users can perform circuit simulation to verify that the simulated results are appropriate in **pSim Plus**. The following are the steps to import and use WUYUE SP90 PDK in **pSim Plus**.
 
 Open Project in WUYUE PDK
 *******************************************

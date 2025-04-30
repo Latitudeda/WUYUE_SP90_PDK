@@ -3,7 +3,7 @@ PDK structure
 
 Process Design Kit (PDK) is a tool for designated users to generate circuit layouts based on Wuyue SP90 design rules and technology settings.
 
-``Wuyue_SP90_V0p6_Latitudeda`` package includes three subfolders: ``components``, ``examples``, and ``technology``.
+``Wuyue_SP90_V0p7_Latitudeda`` package includes three subfolders: ``components``, ``examples``, and ``technology``.
 
 * ``components``
 
@@ -21,7 +21,7 @@ Process Design Kit (PDK) is a tool for designated users to generate circuit layo
 
     * See chapter ``Technology setting`` for more specific definition.
 
-* ``Wuyue_SP90_V0p6_Latitudeda.lyp``
+* ``Wuyue_SP90_V0p7_Latitudeda.lyp``
 
     * This file allows layout tools e.g. Klayout to recognize the layer information when displaying gds file to the layout tool.
 

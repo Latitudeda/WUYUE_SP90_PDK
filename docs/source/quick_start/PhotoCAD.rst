@@ -53,13 +53,13 @@ Import Wuyue SP90 PDK into PhotoCAD
 
 First, make sure that the Wuyue SP90 PDK version matches the version of **PhotoCAD**. The version of **PhotoCAD** can be obtained in ``Run`` by running scripts in **PhotoCAD**.
 
-Extract the ``Wuyue_SP90_V0p6_Latitudeda`` zip archive and copy it to the workspace folder. As shown in the figure below, the ``Wuyue_SP90_V0p6_Latitudeda`` folder is in the demo folder and parallel to .vene_demo.
+Extract the ``Wuyue_SP90_V0p7_Latitudeda`` zip archive and copy it to the workspace folder. As shown in the figure below, the ``Wuyue_SP90_V0p7_Latitudeda`` folder is in the demo folder and parallel to .vene_demo.
 
 .. image:: ../images/PhotoCAD_6.png
 
-It's important to note that the PDK folder structure is the same as in the figure. Subfolders such as ``components`` and ``examples`` should be seen when expanding the ``Wuyue_SP90_V0p6_Latitudeda`` folder. Otherwise, the import path will be wrong when you run the code.
+It's important to note that the PDK folder structure is the same as in the figure. Subfolders such as ``components`` and ``examples`` should be seen when expanding the ``Wuyue_SP90_V0p7_Latitudeda`` folder. Otherwise, the import path will be wrong when you run the code.
 
-Open and run ``Wuyue_SP90_V0p6_Latitudeda/examples/tech_test.py``. PDK will be imported successfully if there are no errors and ``tech_test.py.gds`` will be exported.
+Open and run ``Wuyue_SP90_V0p7_Latitudeda/examples/tech_test.py``. PDK will be imported successfully if there are no errors and ``tech_test.py.gds`` will be exported.
 
 .. image:: ../images/PhotoCAD_7.png
 
