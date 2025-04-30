@@ -1,7 +1,7 @@
 PhotoCAD
 =======================================
 
-This section demonstrates how to import the Wuyue SP90 PDK into **PhotoCAD**. It is divided into two steps: creating a **PhotoCAD** workspace and importing the Wuyue SP90 PDK. If a **PhotoCAD** workspace has already been created, the user can skip to step 2.
+This section demonstrates how to import the Wuyue SP90 PDK into **PhotoCAD**. It is divided into two steps: creating a **PhotoCAD** workspace and importing the Wuyue SP90 PDK. If a **PhotoCAD** workspace has already been created, the user can skip to step 2: :ref:`import-pdk-step`.
 
 Create a PhotoCAD Workspace
 *******************************************
@@ -47,6 +47,8 @@ The workspace has been created successfully if you see a pop-up window like the 
 
 .. image:: ../images/PhotoCAD_5.png
 
+
+.. _import-pdk-step:
 
 Import Wuyue SP90 PDK into PhotoCAD
 *******************************************
