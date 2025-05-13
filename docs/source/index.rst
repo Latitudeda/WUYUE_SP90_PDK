@@ -4,7 +4,7 @@ Wuyue documentation
    :width: 100%
    :align: center
 
-This documentation outlines the contents and usage of the **Latitudeda PDK** for **WUYUE SP90** (v0.7).
+This documentation outlines the contents and usage of the **Latitudeda PDK** for **WUYUE SP90** (v0.8.0).
 
 The PDK is compatible with **PhotoCAD** and **Advanced SDL** for layout generation. Key features and capabilities include:
 
