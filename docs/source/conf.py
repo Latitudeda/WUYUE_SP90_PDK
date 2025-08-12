@@ -6,8 +6,8 @@ project = 'WUYUE SP90 PDK documentation'
 copyright = '2025, Latitudeda.com'
 author = 'www.latitudeda.com'
 
-release = '0.8'
-version = '0.8.0'
+release = '0.9'
+version = '0.9.0'
 
 # -- General configuration
 
