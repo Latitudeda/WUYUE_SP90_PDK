@@ -28,7 +28,7 @@ Enter the project name and path, select ``Wuyue`` PDK in the PDK column, and cli
 
 .. image:: ../images/ASDL_5.png
 
-Wait for the contents of ``Import Wuyue_SP90_V0p8p0_Latitudeda pdk symbols succeed`` to appear in the output.
+Wait for the contents of ``Import Wuyue_SP90_V0p9p0_Latitudeda pdk symbols succeed`` to appear in the output.
 
 .. image:: ../images/ASDL_6.png
 
